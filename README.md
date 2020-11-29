@@ -7,7 +7,7 @@
 <a href="https://rebrand.ly/hackerwasii"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://rebrand.ly/hackerwasii"><img title="CamPhish" src="https://user-images.githubusercontent.com/49580304/96668015-0c7eb600-130f-11eb-9193-e02e6b209b01.jpg"></a>
+<a href="https://rebrand.ly/hackerwasii"><img title="CamPhish" src="https://github.com/evildevill/camphish/blob/main/sites/20201129_164630.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/Hacker-wasii-brightgreen?style=for-the-badge&logo=github"></a>
