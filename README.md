@@ -92,12 +92,12 @@ __SELECT OPTION__ :
 <br>
 <p align="center">
 <img width="50%" src="https://github.com/evildevill/camphish/blob/main/sites/Screenshot_20201129_193435.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96668019-13a5c400-130f-11eb-9b30-c96a055b7532.jpg"/>
+<img width="45%" src="https://github.com/evildevill/camphish/blob/main/sites/Screenshot_20201130_055207.jpg"/>
 </p>
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://bit.ly/2BNk3P1)
+[![des](img)](video link)
 
 ## CONNECT WITH US :
 
